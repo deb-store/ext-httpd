@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 12 Nov 2019 14:00:00 +0300
+Source: ext-httpd
+Architecture: source
+Version: 1.0.0-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Package Store <kitsune.solar@gmail.com>
+Changed-By: Package Store <kitsune.solar@gmail.com>
+Changes:
+ ext-httpd (1.0.0-1) unstable; urgency=medium
+ .
+   * Initial Release
+Checksums-Sha1:
+ 46174b20c570cbf2311d03504c04885c62080db3 1018 ext-httpd_1.0.0-1.dsc
+ 060cee8ee1dfc4f944cbca23e2a57443778e7554 292 ext-httpd_1.0.0.orig.tar.xz
+ 0e95db4d1473a21442514fafa4c1f6a45de3cca3 760 ext-httpd_1.0.0-1.debian.tar.xz
+ b0a922a31d483b38ef3318b9a55cd72e7aa8502e 4399 ext-httpd_1.0.0-1_source.buildinfo
+Checksums-Sha256:
+ 44cd3c0b64970d92ee83df444ec6c879329875e638b54b8f7edabf494240dced 1018 ext-httpd_1.0.0-1.dsc
+ 1eb09ac54411c46d90035d94a4144e07f3b490ef7dbe3463706c4b1f8edd36af 292 ext-httpd_1.0.0.orig.tar.xz
+ a7a6a48f48401771186b9561fa61b782b67012ca31e7964b90d9204fcf495f23 760 ext-httpd_1.0.0-1.debian.tar.xz
+ 51acc0cccc93906c4340dee85081f7f5d79512cbcb65c0a518f2377fbe687850 4399 ext-httpd_1.0.0-1_source.buildinfo
+Files:
+ a49602dba1aad767f87f7e9be8e9af1c 1018 admin optional ext-httpd_1.0.0-1.dsc
+ 5d3df84b5d52b1f23809433fde6e31cc 292 admin optional ext-httpd_1.0.0.orig.tar.xz
+ 3ce45474a88bff1c355478d68483ed9d 760 admin optional ext-httpd_1.0.0-1.debian.tar.xz
+ 69ef266a17512c0eadae46679bd8fa78 4399 admin optional ext-httpd_1.0.0-1_source.buildinfo
