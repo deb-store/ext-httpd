@@ -13,11 +13,11 @@ Build-Depends: debhelper (>= 13), debhelper-compat (= 13)
 Package-List:
  ext-httpd deb admin optional arch=all
 Checksums-Sha1:
- 07edccfe301ae2b2c5871159ca1ac46f7f8e7418 276 ext-httpd_1.0.0.orig.tar.xz
+ 6bcd112eaea363db3125fffe60a17a2335dac948 280 ext-httpd_1.0.0.orig.tar.xz
  ede77d1745759d3371068663e45bd62b6f2b77c1 752 ext-httpd_1.0.0-1.debian.tar.xz
 Checksums-Sha256:
- f11b6e9d2956789bfccf89205ed40d4ffc9e57485663da0054756cb91120f5a6 276 ext-httpd_1.0.0.orig.tar.xz
+ 1a66494e51cbe457c87e7298e836cb2ada1c2848380bacfb02dd51d5726e574e 280 ext-httpd_1.0.0.orig.tar.xz
  f64e9bf8c8864b225f701eb05e6cc838805e804ae6e23097df12c4cac5ebde85 752 ext-httpd_1.0.0-1.debian.tar.xz
 Files:
- 75eced9af29f841b216f79998d721d63 276 ext-httpd_1.0.0.orig.tar.xz
+ 41948ffb8859eaf734d0b47307ef5bb5 280 ext-httpd_1.0.0.orig.tar.xz
  63c46eb83cc41a1332393d06fe6e8512 752 ext-httpd_1.0.0-1.debian.tar.xz
