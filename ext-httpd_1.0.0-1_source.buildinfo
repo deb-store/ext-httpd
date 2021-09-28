@@ -3,14 +3,14 @@ Source: ext-httpd
 Architecture: source
 Version: 1.0.0-1
 Checksums-Md5:
- 6be769ca4ebd78a0f01ff5bb7de03e15 1018 ext-httpd_1.0.0-1.dsc
+ f2af38e5fc786f3ad7fa45a66d448b15 999 ext-httpd_1.0.0-1.dsc
 Checksums-Sha1:
- 62ce4a156d3f6059220a5d26870cdeab7f270b61 1018 ext-httpd_1.0.0-1.dsc
+ f625b46eef9ec285f7d54d9f723437205cb45f79 999 ext-httpd_1.0.0-1.dsc
 Checksums-Sha256:
- 2b6fc34c33ed72733ce808ae6bc021700055f9d831c89e640e2d27254a8ea70d 1018 ext-httpd_1.0.0-1.dsc
+ a32a30ceac40a635b1eff82af5cfd2e608a7dff38d4061127ed782ea17c5208b 999 ext-httpd_1.0.0-1.dsc
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Mon, 20 Sep 2021 08:52:45 +0000
+Build-Date: Tue, 28 Sep 2021 14:20:21 +0000
 Installed-Build-Depends:
  autoconf (= 2.69-14),
  automake (= 1:1.16.3-2),
@@ -138,7 +138,7 @@ Installed-Build-Depends:
  libuuid1 (= 2.36.1-8),
  libxml2 (= 2.9.10+dfsg-6.7),
  libzstd1 (= 1.4.8+dfsg-2.1),
- linux-libc-dev (= 5.10.46-4),
+ linux-libc-dev (= 5.10.46-5),
  login (= 1:4.8.1-1),
  lsb-base (= 11.1.0),
  m4 (= 1.4.18-5),

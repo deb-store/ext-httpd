@@ -9,15 +9,15 @@ Homepage: https://pkgstore.gitlab.io
 Standards-Version: 4.5.1
 Vcs-Browser: https://github.com/pkgstore/linux-deb-ext-httpd
 Vcs-Git: https://github.com/pkgstore/linux-deb-ext-httpd.git
-Build-Depends: debhelper (>= 13), debhelper-compat (= 13)
+Build-Depends: debhelper-compat (= 13)
 Package-List:
  ext-httpd deb admin optional arch=all
 Checksums-Sha1:
- 6bcd112eaea363db3125fffe60a17a2335dac948 280 ext-httpd_1.0.0.orig.tar.xz
- ede77d1745759d3371068663e45bd62b6f2b77c1 752 ext-httpd_1.0.0-1.debian.tar.xz
+ 7fb189f83389467cd80719ccc13730a5bdd52336 276 ext-httpd_1.0.0.orig.tar.xz
+ 3ad44ec7833799be7935868488320d1cadccfcdd 744 ext-httpd_1.0.0-1.debian.tar.xz
 Checksums-Sha256:
- 1a66494e51cbe457c87e7298e836cb2ada1c2848380bacfb02dd51d5726e574e 280 ext-httpd_1.0.0.orig.tar.xz
- f64e9bf8c8864b225f701eb05e6cc838805e804ae6e23097df12c4cac5ebde85 752 ext-httpd_1.0.0-1.debian.tar.xz
+ b8c8ee34989bdf6568e8a7645f1bc12f4d76b9b180a2b0381496c2bfe4014476 276 ext-httpd_1.0.0.orig.tar.xz
+ b5953488857f87d2ef653ce338ca3db5961c4fedf8e74dcd984de10ebf7597e0 744 ext-httpd_1.0.0-1.debian.tar.xz
 Files:
- 41948ffb8859eaf734d0b47307ef5bb5 280 ext-httpd_1.0.0.orig.tar.xz
- 63c46eb83cc41a1332393d06fe6e8512 752 ext-httpd_1.0.0-1.debian.tar.xz
+ 14f2f0dfa4b535be8f2a919549f52b0c 276 ext-httpd_1.0.0.orig.tar.xz
+ 7d48129d0f3887475056d41ba19adcca 744 ext-httpd_1.0.0-1.debian.tar.xz
